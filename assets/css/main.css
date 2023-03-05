@@ -171,6 +171,8 @@ textarea {
 .devicon-bootstrap-plain,
 .devicon-docker-plain,
 .devicon-postgresql-plain,
+.devicon-tailwindcss-plain,
+.devicon-redux-plain,
 .devicon-react-plain {
 	font-size: 3em;
 }
